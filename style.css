@@ -1,0 +1,81 @@
+.logo{
+    color: black;
+    font-family: 'Pacifico', cursive;
+    font-size: 2rem;
+}
+.nav-link{
+    color: black;
+}
+.mc{
+    height: 90vh;
+    background-color: #A0D995;
+}
+.content1{
+    margin-top:20% ;
+}
+.h1text{
+    color: white;
+}
+.mcimg{
+    height: 90vh;
+}
+.mission{
+    height: 70vh;
+    background-color: #B8F1B0;
+    font-family: 'Stoke', serif ;
+    color: rgb(110, 14, 110);
+    text-align: center;
+    padding-top: 8rem;
+    font-weight: 60px;
+    
+}
+#sec3 h5{
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.sec4img{
+    height: 90vh;
+    margin-left: -10%;
+}
+#sec4{
+    color: #083121;
+    background-color: #F6E3C5;
+    text-align: center;
+}
+.sec4c{
+    padding: 25px;
+    margin-top: 125px;
+}
+#sec4 p{
+    font-weight: bold;
+}
+#bseller img{
+    height: 50vh;
+    width: 25vw;
+}
+#bseller{
+    padding: 2% 10%;
+    color: purple;
+}
+#bseller h5{ 
+    margin-top: 2%;
+    text-align: center;
+}
+.bsc{
+    padding: 5% 0%;
+}
+
+#sec5 img{
+    height: 80vh;
+}
+.sec5r{
+    background-color: #83BD75;
+}
+.sec5text{
+    margin-top: 155px;
+}
+#sec6{
+    background-color: rgb(218, 193, 218);
+    color: purple;
+}
